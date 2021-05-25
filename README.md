@@ -11,3 +11,12 @@ per month.
 [10] As of January 2020, GitHub reports having over 40 million users[11]
 and more than 190 million repositories[12] (including at least 28 million public repositories),'
 [13] making it the largest host of source code in the world.[14]
+<div class="w3-sidebar w3-bar-block" style="width:25%">
+  <a href="#" class="w3-bar-item w3-button">Link 1</a>
+  <a href="#" class="w3-bar-item w3-button">Link 2</a>
+  <a href="#" class="w3-bar-item w3-button">Link 3</a>
+</div>
+
+<div style="margin-left:25%">
+... page content ...
+</div>
